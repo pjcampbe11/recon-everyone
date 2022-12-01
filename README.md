@@ -1,8 +1,8 @@
 # recon-everyone # 
 
 ```
-https://github.com/pjcampbe11/recon-everyone.git
-cd tools
+git clone https://github.com/pjcampbe11/recon-everyone.git
+cd recon-everyone/tools
 Open index.html with Chrome
 ```
 
